@@ -1,4 +1,4 @@
-# Python QR Code Generator
+# QR Code Generator
 
 A sleek and minimal QR code generator built using **Python**, **qrcode**, and **Pillow**.  
 Generate scannable, high-quality QR codes from any text or URL in seconds.
