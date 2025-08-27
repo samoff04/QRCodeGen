@@ -22,7 +22,7 @@ Generate scannable, high-quality QR codes from any text or URL in seconds.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** (Core Language)  
 - **Tkinter** (GUI framework)  
 - **qrcode** (QR code generation)  
